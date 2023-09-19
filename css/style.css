@@ -22,6 +22,8 @@ body {
 
 a {
     text-decoration: none;
+    color:black;
+    background-color: red;
 }
 
 .boton {
